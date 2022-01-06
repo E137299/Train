@@ -7,7 +7,7 @@ public class Main{
 		frame.setSize(3000,600);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
-		frame.add(new Train(100,300));
+		frame.add(new Train(100,100));
 		frame.setVisible(true);
 	}
 }
